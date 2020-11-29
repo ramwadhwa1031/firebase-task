@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376576908746",
+    "firebase_url": "https://employeedata-70480.firebaseio.com",
+    "project_id": "employeedata-70480",
+    "storage_bucket": "employeedata-70480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376576908746:android:fdc772a40d70979773c333",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376576908746-pvg4ol2jspo2mssff5oevi36nqd09cia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYGNhYA0hItTJVE5ceA78W6zshLqZqnTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376576908746-pvg4ol2jspo2mssff5oevi36nqd09cia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
